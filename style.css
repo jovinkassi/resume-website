@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  #menu {
+    margin-bottom: 20px;
+  }
+  
+  #menu a {
+    text-decoration: none;
+    padding: 8px 12px;
+    color: white;
+    background-color: #333;
+    border-radius: 5px;
+  }
+  
+  #menu a:hover {
+    background-color: #666;
+  }
+  
+  #content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
